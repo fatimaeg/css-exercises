@@ -1,0 +1,16 @@
+.odd-el{
+    background-color: rgb(241, 189, 189);
+    font-family: verdana, "DejaVu Sans" ,sans-serif;
+}
+#divt{
+    color: rgb(0,0,255);
+    font-size: 36px;    
+}
+.numth{
+    font-size: 24px;
+}
+#divf{
+    background-color: rgb(157, 240, 162);
+    font-size: 24px;
+    font-weight: 700;
+}
